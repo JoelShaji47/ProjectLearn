@@ -23,7 +23,10 @@ ProjectLearn provides a curated list of project tutorials in which learners buil
 The list has project tutorials on many in-demand languages and technologies including ReactJS, NodeJS, VueJS, Flutter, React Native, .NET Core, Unity, TensorFlow, OpenCV, Keras, and more.
   
 To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/CONTRIBUTE.md) for more details :)
-  
+
+## Project Demo Video
+https://drive.google.com/drive/folders/1HJE59M3xATGUbteUFj_RzfvspKocTDwA?usp=drive_link
+
 ## List of Project Tutorials:
 ### Web Development: 
 | Project | Technologies | Link |
@@ -252,6 +255,3 @@ To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtre
 | Movie Recommendation Systems | Python, LightFM | [Link](https://projectlearn.io/learn/machine-learning-and-ai/project/movie-recommendation-systems-49?from=github)|
 | Twitter Sentiment Analysis | Python, API | [Link](https://projectlearn.io/learn/machine-learning-and-ai/project/twitter-sentiment-analysis-48?from=github)|
 | Chat App with Sentiment Analysis | NextJS, Pusher, Sentiment, Node, React | [Link](https://projectlearn.io/learn/machine-learning-and-ai/project/chat-app-with-sentiment-analysis-35?from=github)|
-<p align="center">
-  <img src="https://i.ibb.co/ypzR4Qv/Screen-Shot-20200320134822.png">
-</p>
