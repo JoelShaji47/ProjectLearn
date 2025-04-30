@@ -27,6 +27,11 @@ To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtre
 ## Project Demo Video
 https://drive.google.com/drive/folders/1HJE59M3xATGUbteUFj_RzfvspKocTDwA?usp=drive_link
 
+## Technologies Used In This Project
+- React
+- Next
+- Supabase
+
 ## List of Project Tutorials:
 ### Web Development: 
 | Project | Technologies | Link |
